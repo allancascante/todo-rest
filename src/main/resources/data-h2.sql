@@ -1,0 +1,1 @@
+insert into todo(created, title, summary, status) values('2018-05-22', 'TODO', 'My TODO', 0);
